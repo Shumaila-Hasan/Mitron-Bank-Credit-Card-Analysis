@@ -27,6 +27,11 @@ Excel / CSV Dataset – 4,000 customer records
 
 Power Query & DAX – for data cleaning, aggregation, and KPI creation
 
+
+# Data Set 
+
+I have used codebasics challenge 8 dataset. This dataset provides detailed information relevant to the analysis and insights presented in the dashboard.
+
 # Dashboard Pages
 
 Demography Analysis – Gender, Age, Marital Status, City
