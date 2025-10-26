@@ -86,7 +86,7 @@ Income Utilization Analysis – Utilization by Gender, Occupation, and Age
 
 Demogaphy
 
-![Demograpyy]()
+![Demograpyy](https://github.com/Shumaila-Hasan/Mitron-Bank-Credit-Card-Analysis/blob/main/Demography.png)
 
 
 Income Analysis
