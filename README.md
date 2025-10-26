@@ -91,7 +91,7 @@ Demogaphy
 
 Income Analysis
 
-![Income Analysis]()
+![Income Analysis](https://github.com/Shumaila-Hasan/Mitron-Bank-Credit-Card-Analysis/blob/main/Income%20Analysis.png)
 
 expenditure Analysis
 
