@@ -18,6 +18,45 @@ Evaluate income utilization trends to assess spending potential.
 
 Provide data-driven recommendations to support Mitron Bank’s product-launch strategy.
 
+
+# Tools Used
+
+Power BI Desktop – for dashboard creation and visualization
+
+Excel / CSV Dataset – 4,000 customer records
+
+Power Query & DAX – for data cleaning, aggregation, and KPI creation
+
+# Dashboard Pages
+
+Demography Analysis – Gender, Age, Marital Status, City
+
+Income Analysis – Income by Occupation & Age Group
+
+Expenditure Analysis – Spending by Category & Payment Mode
+
+Income Utilization Analysis – Utilization by Gender, Occupation, and Age
+
+Demogaphy
+
+![Demograpyy](https://github.com/Shumaila-Hasan/Mitron-Bank-Credit-Card-Analysis/blob/main/Demography.png)
+
+
+Income Analysis
+
+![Income Analysis](https://github.com/Shumaila-Hasan/Mitron-Bank-Credit-Card-Analysis/blob/main/Income%20Analysis.png)
+
+expenditure Analysis
+
+![Expenditure Analysis](https://github.com/Shumaila-Hasan/Mitron-Bank-Credit-Card-Analysis/blob/main/Expenditure%20Analysis.png)
+
+
+Income Utilization Analysis 
+
+![Income Utilization Analysis ](https://github.com/Shumaila-Hasan/Mitron-Bank-Credit-Card-Analysis/blob/main/Income%20Utilization%20Analysis.png)
+
+
+
 # Key Insights
 
 Credit Cards dominate total spending with ₹216 M, followed by UPI (₹141 M).
@@ -65,42 +104,6 @@ Use AI-based customer segmentation in Power BI to personalize offers.
 Focus marketing on 25–34 age group to maximize credit-card adoption.
 
 Expand regional campaigns in Chennai & Hyderabad to match Bengaluru’s engagement levels.
-
-# Tools Used
-
-Power BI Desktop – for dashboard creation and visualization
-
-Excel / CSV Dataset – 4,000 customer records
-
-Power Query & DAX – for data cleaning, aggregation, and KPI creation
-
-# Dashboard Pages
-
-Demography Analysis – Gender, Age, Marital Status, City
-
-Income Analysis – Income by Occupation & Age Group
-
-Expenditure Analysis – Spending by Category & Payment Mode
-
-Income Utilization Analysis – Utilization by Gender, Occupation, and Age
-
-Demogaphy
-
-![Demograpyy](https://github.com/Shumaila-Hasan/Mitron-Bank-Credit-Card-Analysis/blob/main/Demography.png)
-
-
-Income Analysis
-
-![Income Analysis](https://github.com/Shumaila-Hasan/Mitron-Bank-Credit-Card-Analysis/blob/main/Income%20Analysis.png)
-
-expenditure Analysis
-
-![Expenditure Analysis](https://github.com/Shumaila-Hasan/Mitron-Bank-Credit-Card-Analysis/blob/main/Expenditure%20Analysis.png)
-
-
-Income Utilization Analysis 
-
-![Income Utilization Analysis ](https://github.com/Shumaila-Hasan/Mitron-Bank-Credit-Card-Analysis/blob/main/Income%20Utilization%20Analysis.png)
 
 
 # Conclusion
