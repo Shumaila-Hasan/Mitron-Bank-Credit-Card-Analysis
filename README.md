@@ -100,7 +100,7 @@ expenditure Analysis
 
 Income Utilization Analysis 
 
-![Income Utilization Analysis ]()
+![Income Utilization Analysis ](https://github.com/Shumaila-Hasan/Mitron-Bank-Credit-Card-Analysis/blob/main/Income%20Utilization%20Analysis.png)
 
 
 # Conclusion
