@@ -113,5 +113,5 @@ Expand regional campaigns in Chennai & Hyderabad to match Bengaluru’s engageme
 
 # Conclusion
 
-This pilot project helped Mitron Bank uncover customer spending trends and identify high-potential segments for their upcoming credit-card launch.
+This  project helped Mitron Bank uncover customer spending trends and identify high-potential segments for their upcoming credit-card launch.
 The data-driven insights demonstrate how Power BI can transform raw financial data into strategic business decisions, strengthening Mitron Bank’s market expansion plan.
